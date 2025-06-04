@@ -6,7 +6,7 @@ Supports multiple images, PDF/Word export, and more.
 ## Features
 
 - 📷 Upload multiple images (JPG, PNG)
-- 🖋️ Supports English and Hindi handwritten notes
+- 🖋️ Supports English handwritten notes (for now)
 - 📝 Edit extracted text before export
 - 📤 Export as TXT, DOCX, or PDF
 - 🕑 Keeps conversion history
